@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Móveis customizados é sistema de apresentação de uma empresa de ambientes, ele foi elaborado na aula do programa Explorer da Rocketseat.
+O projeto Crie e compartilhe seu evento é um formulario para criar eventos, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
 ## 🔖 Layout
 
