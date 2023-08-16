@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Crie e compartilhe seu evento é um formulario para criar eventos, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
-- [Página](https://igorsilvamedeiros.github.io/Crie_seu_evento/)
+- [Página](https://igorsilvam.github.io/Crie_seu_evento/)
 
 ## 🔖 Layout
 
